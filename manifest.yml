@@ -1,0 +1,4 @@
+applications:
+- name: spring-boot-rest-tutorial
+  path: spring-boot-rest-tutorial/target/spring-boot-rest-tutorial-1.0.0.jar
+  memory: 256M
